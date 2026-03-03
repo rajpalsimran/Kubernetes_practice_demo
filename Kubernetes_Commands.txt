@@ -1,0 +1,33 @@
+Must-Know Commands (Practice Daily)
+
+kubectl run
+
+kubectl create
+
+kubectl apply
+
+kubectl edit
+
+kubectl patch
+
+kubectl scale
+
+kubectl expose
+
+kubectl rollout
+
+kubectl drain
+
+kubectl cordon
+
+kubectl taint
+
+kubectl label
+
+kubectl annotate
+
+kubectl explain
+
+kubectl config
+
+jsonpath usage
